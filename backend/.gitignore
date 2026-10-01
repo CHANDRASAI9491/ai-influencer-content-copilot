@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.env
+.dev_secret
+*.db
+*.sqlite
+*.sqlite3
+copilot.db*
+__pycache__/
+*.py[cod]
+.pytest_cache/
